@@ -53,3 +53,14 @@ git push
 git push origin <nome_da_branch>
 ````
 
+#### Exibir histórico
+````
+git log
+````
+
+#### Exibir os repositórios remotos
+````
+git remote
+
+git remote -v
+````
