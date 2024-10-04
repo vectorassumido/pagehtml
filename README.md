@@ -47,3 +47,9 @@ git merge <nome da branch com alterações realizadas>
 git push
 ````
 
+
+#### Enviar branch para o repositório remoto <origin>
+````
+git push origin <nome_da_branch>
+````
+
