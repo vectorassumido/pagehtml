@@ -12,7 +12,13 @@ git init
 git clone <url_do_repositorio>
 ````
 
+#### Comando Git Fetch - Baixa o conteúdo do repositório remoto
+````
+git fetch
+````
+
 #### Buscar e baixar conteúdo de repositórios remotos e fazer a atualização imediata ao repositório local
+#### Git pull = git fecth + git merge
 ````
 git pull
 ````
@@ -35,7 +41,10 @@ git commit -m "Msg"
 #### Faz o chekout para uma branch
 ````
 git checkout <nome da branch>
+
 ````
+
+
 
 #### Unifica as alterações feitas
 ````
@@ -64,3 +73,5 @@ git remote
 
 git remote -v
 ````
+
+
