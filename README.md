@@ -7,7 +7,7 @@
 git init
 ````
 
-#### Clonar um repositorio
+#### Clonar um repositório
 ````
 git clone <url_do_repositorio>
 ````
@@ -27,7 +27,7 @@ git chekout -b <nome da branch>
 git add .
 ````
 
-#### Faz commit das alteralções com uma mensagem
+#### Faz commit das alterações com uma mensagem
 ````
 git commit -m "Msg"
 ````
